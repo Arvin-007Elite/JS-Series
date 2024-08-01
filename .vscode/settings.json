@@ -1,0 +1,7 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.triggerExpansionOnTab": true,
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.useInlineCompletions": true
+}
